@@ -26,8 +26,8 @@ LOG_LEVEL=info python3 experiments/mppi/main_accelerated3.py
 # Run MPPI example with GPU acceleration, float32 dtype
 MPPI_BACKEND=cupy MPPI_DTYPE=float32 LOG_LEVEL=info python3 experiments/mppi/main_accelerated3.py
 ```
+![423174033-9b35877c-0bb0-490f-8f96-53b6890ffc3c](https://github.com/user-attachments/assets/6801b702-9624-436a-81b6-21aa8407743e)
 
-![animation2_1](https://github.com/user-attachments/assets/9b35877c-0bb0-490f-8f96-53b6890ffc3c)
 
 ## Showcase
 
